@@ -3,3 +3,7 @@
 - [碧血剑](nover02.md)
 - [射雕英雄传](nover03.md)
 - [雪山飞狐](nover04.md)
+- [神雕侠侣](nover05.md)
+- [飞狐外传](nover06.md)
+- [白马啸西风](nover07.md)
+- [倚天屠龙记](nover08.md)
