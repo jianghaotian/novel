@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "金庸小说介绍电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemonoink/novel.git"
+  },
+  "keywords": [],
+  "author": "Lemono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemonoink/novel/issues"
+  },
+  "homepage": "https://github.com/lemonoink/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
